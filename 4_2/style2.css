@@ -1,0 +1,10 @@
+/* CSS내에서 다른 CSS 파일을 가져와 연결하는 방식 */
+@import url("./style2.css") /* url함수(function) */
+
+
+div {color: red !important;}
+#color_yellow {color: yellow;}
+.color_green {color: green;}
+div {color: blue;}
+* {color: brown;}
+body {color: violet;}
