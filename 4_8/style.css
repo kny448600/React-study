@@ -1,0 +1,15 @@
+.parents {
+    width: 100px;
+    height: 50px;
+    border: 2px solid purple;
+    background-color: blue;
+
+}
+.child{
+    width: 30px;
+    height: 30dipx;
+    background-color: orange;
+    display: 1;
+    overflow: auto;
+  
+}
